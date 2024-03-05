@@ -41,9 +41,9 @@ class Mailer:
     capchaButton: InlineKeyboardBuilder
 
 
-    WelcomesDict:dict[str,Buttons] = {}
+    WelcomesDict: = {}
 
-    spam_builder:dict[int,InlineKeyboardBuilder] = {}
+    spam_builder = {}
 
     join = False
 
