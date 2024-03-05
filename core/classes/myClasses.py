@@ -41,7 +41,7 @@ class Mailer:
     capchaButton: InlineKeyboardBuilder
 
 
-    WelcomesDict: = {}
+    WelcomesDict = {}
 
     spam_builder = {}
 
